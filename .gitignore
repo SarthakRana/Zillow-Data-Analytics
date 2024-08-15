@@ -1,0 +1,4 @@
+/airflow/logs
+/airflow/config_api.json
+/airflow/standalone_admin_password.txt
+.DS_Store
